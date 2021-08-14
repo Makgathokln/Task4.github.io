@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Task4.github.io/static/css/main.16904f09.chunk.css",
+    "main.js": "/Task4.github.io/static/js/main.73e0b57b.chunk.js",
+    "main.js.map": "/Task4.github.io/static/js/main.73e0b57b.chunk.js.map",
+    "runtime-main.js": "/Task4.github.io/static/js/runtime-main.3effc302.js",
+    "runtime-main.js.map": "/Task4.github.io/static/js/runtime-main.3effc302.js.map",
+    "static/js/2.bb944020.chunk.js": "/Task4.github.io/static/js/2.bb944020.chunk.js",
+    "static/js/2.bb944020.chunk.js.map": "/Task4.github.io/static/js/2.bb944020.chunk.js.map",
+    "static/js/3.7e5af5bc.chunk.js": "/Task4.github.io/static/js/3.7e5af5bc.chunk.js",
+    "static/js/3.7e5af5bc.chunk.js.map": "/Task4.github.io/static/js/3.7e5af5bc.chunk.js.map",
+    "index.html": "/Task4.github.io/index.html",
+    "static/css/main.16904f09.chunk.css.map": "/Task4.github.io/static/css/main.16904f09.chunk.css.map",
+    "static/js/2.bb944020.chunk.js.LICENSE.txt": "/Task4.github.io/static/js/2.bb944020.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Task4.github.io/static/media/reg3.7050154c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3effc302.js",
+    "static/js/2.bb944020.chunk.js",
+    "static/css/main.16904f09.chunk.css",
+    "static/js/main.73e0b57b.chunk.js"
+  ]
+}
